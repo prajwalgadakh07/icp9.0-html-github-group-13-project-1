@@ -8,7 +8,7 @@
 
 ---
 ## 3 Login page
-![Login page](./images/Login.jpeg)
+![Login page](./images/login.jpeg)
 
 ---
 ## 4 Contact page
