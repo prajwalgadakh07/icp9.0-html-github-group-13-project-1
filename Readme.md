@@ -50,8 +50,8 @@
 
 ---
 
- <a href="https://github.com/prajwalgadakh07/icp9.0-html-github-group-13-project-1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prajwalgadakh07/icp9.0-html-github-group-13-project-1" />
+ <a href="https://github.com/KrushnaBarhate03/icp9.0-html-github-group-13-project-1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KrushnaBarhate03/icp9.0-html-github-group-13-project-1" />
 </a>
 
 ---
